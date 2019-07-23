@@ -6,7 +6,6 @@ category: "About"
 permalink: "/about-us/"
 trans_url: "/a-propos-de-nous/"
 ---
-## About us 
 The Talent team makes HR stuff easy and intuitive for the CDS team. Our team is focused on providing an amazing experience to past, present and future CDS team members. 
 
 ### Who we are

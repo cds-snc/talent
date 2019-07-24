@@ -34,4 +34,5 @@ The Talent team makes Human Resources (HR) stuff easy and intuitive for the CDS 
 
 
 
-_Last updated by Andrea on April 15, 2019_
+
+ *Last updated by Andrea on July 24, 2019*

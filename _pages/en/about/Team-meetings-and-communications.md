@@ -10,34 +10,20 @@ trans_url: "/reunions-d-equipe/"
 ### Team meetings and rituals
 
 _Ask Andrea for calendar invitations to these meetings if you don't already have them._
-
-1. **Talent team meeting on Thursdays from 11-11:30 AM ET**
- * Attendees: All memebers of talent team at CDS
- * Frequency: Every week
- * Length: 1/2 hour
- * Purpose: Share updates and discuss important issues
- * Standing agenda:
- * Management updates from Andrea (10 minutes), including topics like:
- * Updates on who we're hiring
- * CDS strategy and policy discussions
- * Talent standup (15 minutes), where each person shares:
- * What they did last week
- * What they'll do in the next week
- * Any blockers
  
-2.  **Talent team retro on Wednesdays from 9:30-10:30 AM ET**
+1.  **Talent team retro on Wednesdays from 9:30-10:30 AM ET**
  * Attendees: All memebers of talent team at CDS
  * Frequency: biweekly
  * Length: 1/2 hour
  * Purpose: Blameless retro on the previous two week session.
  
-3.  **Talent team backlog refinement on Wednesdays from 2:00-3:00 PM ET**
+2.  **Talent team backlog refinement on Wednesdays from 2:00-3:00 PM ET**
  * Attendees: All memebers of talent team at CDS
  * Frequency: biweekly
  * Length: 1 hour
  * Purpose: Review and refine backlog and plan work for next two weeks.
  
-4.   **Talent Standups on Tuesday, Wednesday, Thursday times vary**
+3.   **Talent Standups on Tuesday at 10 AM, Wednesday at 9:30 AM, Thursday at 11 AM **
  * Attendees: All memebers of talent team at CDS
  * Frequency: weekly
  * Length: 30 mins
@@ -46,13 +32,13 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
  * What they'll do in the next week
  * Any blockers
 
-5.  **One-on-ones with Andrea weekly**
+4.  **One-on-ones with Andrea weekly**
  * Attendees: You and Andrea
- * Frequency: Every other week
+ * Frequency: Every week
  * Purpose: Touch base on your OKR progress and blockers facing your work
- * Length: Half an hour
+ * Length: one hour
  * Standing agenda:
- * Blockers facing your product's research
+ * Blockers facing your work
  * Progress on your OKRs
  * Whatever else you'd like to discuss
 

@@ -3,8 +3,8 @@ layout: page
 title:  "Design Reseracher"
 lang: en
 category: "Job Posting"
-permalink: "/design-researcher/"
-trans_url: "/chercheur en conception/"
+permalink: "/quantitative-design-researcher/"
+trans_url: "/chercheur-quantitatif-en-conception/"
 ---
 
 # We're hiring quantitative design researcher

@@ -8,7 +8,7 @@ trans_url: "/Head-of-Partnerships-FR/"
 ---
 
 # We're hiring a Head of Partnerships
-_(Last used at CDS July 2019_
+_(Last used at CDS July 2019)_
 
 The Canadian Digital Service (CDS) works with federal departments to make government services simple and easy-to-use. We’re rethinking service design and delivery, and engaging the people who depend on services every step of the way. By working in the open and connecting partners with tools and talent, we’re improving how government delivers services.
 

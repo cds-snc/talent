@@ -45,12 +45,11 @@ Any digital material that's [protected information]({{site.baseurl}}/privacy), i
 - Job interviewee notes or evaluations
 
 ### What we don't put in GCDocs
-- Put non-protected files (like research plans or reports) in [Google Drive]({{site.baseurl}}/google-drive).
-- Store protected papers in our [locked filing cabinet]({{site.baseurl}}/protected-files).
+- Put non-protected files (like interview plans or project work) in [Google Drive]({{site.baseurl}}/google-drive).
+- Store protected papers in our locked filing cabinet.
 - Classified (like "secret" or "topic secret" documents) can't go in any of our systems or filing cabinets. Refer to TBS' guidance on handling it.
 
 ### Who uses GCDocs when
-- **You are responsible for storing all files with protected information on your TBS computer or GCDocs.** Use GCDocs to securely store your files or to share them with other researchers.
-- Be careful not to store participant or research data on your MacBook.
+- **You are responsible for storing all files with protected information on your TBS computer or GCDocs.** Use GCDocs to securely store your files or to share them with other members of the Talent team.
 
 _- Last updated by Andrea on July 25, 2019_

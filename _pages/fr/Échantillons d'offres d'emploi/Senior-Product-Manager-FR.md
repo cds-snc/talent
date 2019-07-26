@@ -35,7 +35,7 @@ Le rôle constitue une occasion déterminante dans une carrière pour une person
 - Encadrer les collègues et leur offrir un mentorat dans le cadre des rôles de gestion de produits et services au sein du SNC et des ministères partenaires. 
 - Mettez vos compétences et expériences à contribution
 
-### Nous attendons à ce que vous puissiez démontrer les capacités essentielles suivantes :
+### Nous attendons à ce que vous puissiez démontrer les capacités essentielles suivantes:
 
 - créativité et passion pour la résolution de problèmes par l’utilisation de données quantitatives et qualitatives sur les utilisateurs, les services et la technologie;
 - avoir fait ses preuves quant à l’élaboration de dossier d’analyse et de plans de livraison pour les produits qui ont une portée et une incidence importantes;

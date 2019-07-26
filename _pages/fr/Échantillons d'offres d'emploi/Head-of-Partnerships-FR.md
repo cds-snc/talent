@@ -24,6 +24,7 @@ En tant qu’équipe des partenariats, nous sommes les bâtisseurs de ponts au S
 - Fournir des conseils et de l’orientation aux dirigeants du SNC en soutien aux intérêt des partenariats et aux besoins des partenaires gouvernementaux
 - Mesurer ce qui importe et utiliser les données pour rendre l’équipe des partenariats plus efficace
 - Collaborer avec vos collègues du SNC pour améliorer continuellement notre façon de travailler
+
 ### Vous êtes la personne idéale si vous répondez aux critères suivants :
 - Vous êtes à l’aise de diriger une petite équipe pour qu’elle utilise des méthodes agiles et centrées sur l’être humain, tout en travaillant ouvertement.
 - Vous êtes une personne consciente d’elle-même, authentique, persuasive, qui sait faire preuve de délicatesse.

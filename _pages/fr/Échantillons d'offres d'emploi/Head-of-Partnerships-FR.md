@@ -9,6 +9,8 @@ trans_url: "/Head-of-Partnerships/"
 
 
 # Nous embauchons en Chef des partenariats
+_(Dernière utilisation à la CDS en juillet 2019)
+
 Le Service numérique canadien (SNC) collabore avec les ministères fédéraux pour rendre les services gouvernementaux simples et faciles à utiliser. Notre équipe repense la conception et la prestation des services, tout en mobilisant, à chaque étape, les personnes qui les utilisent. En travaillant ouvertement et en faisant connaître à nos partenaires des outils et des gens talentueux, nous améliorons la façon dont le gouvernement offre ses services.
 
 Et nous avons besoin de vous.

@@ -1,13 +1,11 @@
-
 ---
 layout: page
 title:  "Chercheur en conception"
 lang: fr
 category: "Échantillons d'offres d'emploi"
-permalink: "/chercheur-en-conception.md/"
+permalink: "/chercheur-en-conception/"
 trans_url: "/design-researcher/"
 ---
-
 
 
 # Nous embauchons un chercheur en conception

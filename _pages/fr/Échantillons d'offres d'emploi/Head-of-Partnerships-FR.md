@@ -33,7 +33,8 @@ En tant qu’équipe des partenariats, nous sommes les bâtisseurs de ponts au S
 - Vous êtes habitué à formuler recommandations réfléchies, à défendre des décisions difficiles et à fournir des conseils directs à des cadres supérieurs des secteurs public et privé.
 - Vous demeurez calme sous la pression; vous savez comment établir des priorités et vous pouvez aider les autres à faire de même.
 - Vous parlez couramment le français et l’anglais (dans le langage du gouvernement, nous recherchons une personne de niveau CBC).
-- Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
+
+Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
 
 ### Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.

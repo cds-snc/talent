@@ -21,8 +21,7 @@ Trello permet de suivre les renseignements de base à propos des projets continu
 Comme c’est le cas avec Google Drive, Trello ne peut contenir des [données protégées]({{site.baseurl}}/protection-des-renseignements-personnels). Stockez ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou entreposez-les dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
 
 ### Qui utilise Trello et quand
-- **Researchers are responsible for updating their project cards.**
-- Les chercheurs sont responsables de la mise à jour de leurs cartes de projet.
+- __membres de l'équipe sont responsables de la mise à jour de leurs cartes de projet.
 - Dès que vous commencez à travailler sur des projets, saisissez-les.
 - Mettez à jour la carte de projet au fur et à mesure de l’avancement des travaux qui y sont associés.
 - Déplacez le projet dans la colonne « terminé » lorsque vous l’achevez.
@@ -31,7 +30,7 @@ Comme c’est le cas avec Google Drive, Trello ne peut contenir des [données pr
 Trello remplit trois objectifs : 
 - il nous garde informés des travaux de chacun
 - il évite à Andrea et à d’autres intervenants de demander ce que vous faites 
-- quand vous le faites et il nous permet de vérifier notre progrès par rapport à [nos résultats clés].
+- quand vous le faites et il nous permet de vérifier notre progrès par rapport à [nos résultats clés](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#).
 
 
 _- La dernière mise à jour a été effectuée par Andrea le 25 juillet 2019._

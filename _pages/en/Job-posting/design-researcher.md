@@ -4,7 +4,7 @@ title:  "Design Reseracher"
 lang: en
 category: "Job Posting"
 permalink: "/design-researcher/"
-trans_url: "/design-researcher-fr/"
+trans_url: "/chercheur en conception/"
 ---
 
 # We're hiring a Design Researcher

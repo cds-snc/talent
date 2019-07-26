@@ -1,10 +1,11 @@
+
 ---
 layout: page
 title:  "Design Reseracher"
 lang: en
 category: "Job Posting Samples"
 permalink: "/design-researcher/"
-trans_url: "/chercheur en conception/"
+trans_url: "/chercheur-en-conception/"
 ---
 
 # We're hiring a Design Researcher

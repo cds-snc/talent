@@ -2,7 +2,7 @@
 layout: page
 title:  "Quantitative Design Reseracher"
 lang: en
-category: "Job Posting"
+category: "Job Posting Samples"
 permalink: "/quantitative-design-researcher/"
 trans_url: "/chercheur-quantitatif-en-conception/"
 ---

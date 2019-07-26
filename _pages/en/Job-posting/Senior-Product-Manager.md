@@ -8,6 +8,8 @@ trans_url: "/Senior-Product-Manager-FR/"
 ---
 
 # We're hiring a Senior Product Manager
+_Last used by CDS in May 2019_
+
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you.
 
 The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.

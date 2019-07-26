@@ -30,15 +30,6 @@ The Talent team makes Human Resources (HR) stuff easy and intuitive for the CDS 
 - Running programs and learning events that enhance the employee experience.
 - Ensuring we’re building repeatable & scalable processes. 
 
-### How we work with other teams
-
-The talent team works with people leaders to 
-
-In addition, the Talent team acts as a central point for many of the HR processes for the CDS team including the hiring process, Government performance process and general HR questions.
-
-
-### How we need other teams to help
-
 
 
 

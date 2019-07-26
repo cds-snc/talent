@@ -25,18 +25,18 @@ Nous recherchons une chercheuse ou un chercheur en conception. À ce titre, vous
 - planifier et mener des tests d’utilisabilité et utiliser d’autres méthodes de recherche rapides dans un environnement agile
 faire valoir la recherche sur les utilisateurs comme élément clé du processus de développement de produits pour nos partenaires; présenter la recherche à des publics sceptiques et aider les partenaires à renforcer leurs propres capacités de recherche
 - examiner ses pratiques de recherche; réfléchir à ce qui pourrait rendre ses recherches plus utiles, éthiques et efficaces; envisager continuellement des façons d’améliorer nos produits et nos processus
-apporter de nouveaux points de vue; remettre en question les hypothèses de l’équipe de produits et parler ouvertement pour mieux représenter les utilisateurs
+- apporter de nouveaux points de vue; remettre en question les hypothèses de l’équipe de produits et parler ouvertement pour mieux représenter les utilisateurs
 - planifier et faire de la recherche en français et en anglais
 
 ### Le candidat ou la candidate est capable de :
 - diriger les équipes aux étapes de la planification, de la facilitation, de l’analyse et de la production de rapports
 présenter de nouvelles méthodes, de nouveaux cadres et de nouvelles pratiques aux membres de l’équipe
-se tenir au courant des nouveaux moyens permettant d’être un meilleur chercheur; de reconnaître ses faiblesses et de demander de l’aide
+- se tenir au courant des nouveaux moyens permettant d’être un meilleur chercheur; de reconnaître ses faiblesses et de demander de l’aide
 - se montrer solidaire et de prodiguer des conseils afin d’encourager ses coéquipiers et nos partenaires à mener leurs propres recherches
 - ne jamais perdre de vue le lien entre la recherche et la mission du SNC qui consiste à aider les Canadiennes et les Canadiens tout en améliorant le gouvernement qui les sert
 - ne pas porter de jugement et d’être accueillant envers les participants à la recherche et les observateurs de divers milieux
-constamment remettre en question le statu quo et d’exercer des pressions pour favoriser l’adoption de pratiques exemplaires
-proposer aux membres de l’équipe de nouvelles pistes de réflexion et d’accepter qu’ils remettent aussi en cause sa façon de penser
+- constamment remettre en question le statu quo et d’exercer des pressions pour favoriser l’adoption de pratiques exemplaires
+- proposer aux membres de l’équipe de nouvelles pistes de réflexion et d’accepter qu’ils remettent aussi en cause sa façon de penser
 
 Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
 

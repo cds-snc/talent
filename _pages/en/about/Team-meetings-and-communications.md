@@ -48,7 +48,8 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
 
 ### Communication channels
 
-* #talent-team on Slack is a private channel with only talent team members. We use this channel for communications relevant only to us. Even though it's hidden, an access to information request could make it public. #people on Slack is a channel for anyone interested in people and culture. We use this channel for any discussion (related to talent) CDS might enjoy.
+* #talent-team on Slack is a private channel with only talent team members. We use this channel for communications relevant only to us. Even though it's hidden, an access to information request could make it public. 
+* #people on Slack is a channel for anyone interested in people and culture. We use this channel for any discussion (related to talent) CDS might enjoy.
 * We use *email* very little for communication amongst our team. Slack is a better bet.
 
 _- Last updated by Andrea on July 25, 2019_

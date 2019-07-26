@@ -3,8 +3,7 @@
 layout: page
 title:  "Chercheur en conception"
 lang: fr
-category: "Échantillons d'offres d'emploi
-"
+category: "Échantillons d'offres d'emploi"
 permalink: "/chercheur-en-conception.md/"
 trans_url: "/design-researcher/"
 ---

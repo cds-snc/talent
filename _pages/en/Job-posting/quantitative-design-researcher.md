@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Design Reseracher"
+title:  "Quantitative Design Reseracher"
 lang: en
 category: "Job Posting"
 permalink: "/quantitative-design-researcher/"

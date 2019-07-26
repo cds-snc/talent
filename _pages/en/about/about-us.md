@@ -6,7 +6,7 @@ category: "About"
 permalink: "/about-us/"
 trans_url: "/a-propos-de-nous/"
 ---
-The Talent team maximizes the value of employees and drives business results.
+The Talent team is about designing work so that you want to be there  – present, engaged, and proud of what you do.
 
 ### Who we are
 

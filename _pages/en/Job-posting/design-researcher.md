@@ -25,6 +25,7 @@ We’re hiring a design researcher. As a researcher, you’ll design, conduct, a
 - You reflect on your research practice. You think about what could make your research more useful, ethical, and efficient. - - You’re also always thinking about how to improve our products and our processes.
 - You bring fresh opinions. You’re willing to challenge your product team’s assumptions and speak openly to best represent the users.
 - You can plan and conduct research in both French and English.
+
 ### You will be able to:
 - Lead teams through user research planning, facilitation, analysis, and reporting.
 - Introduce new methods, frameworks, and practices to your team members.

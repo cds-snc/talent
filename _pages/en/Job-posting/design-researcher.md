@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Design Reseracher"
+title:  "Design Researcher"
 lang: en
 category: "Job Posting Samples"
 permalink: "/design-researcher/"

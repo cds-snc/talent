@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Team meetings and communications"
-lang: en
+lang: fr
 category: "About"
 permalink: "/reunions-d-equipe/"
 trans_url: "/team-meetings/"

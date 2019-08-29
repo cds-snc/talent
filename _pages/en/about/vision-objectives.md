@@ -26,7 +26,7 @@ Objectives are overarching goals. Key results are concrete manifestations of eac
 * Foster a strong, positive, and inclusive CDS culture based on data from the team.
 * Research Talent as a Service.
 
-We note progress on key results weekly and score them monthly. Watch our progress in the [quarter 4 OKR progress tracker](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476.
+We note progress on key results weekly and score them monthly. Watch our progress in the [quarter 4 OKR progress tracker](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
 
 #### How we set objectives quarterly
 

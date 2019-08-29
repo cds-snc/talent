@@ -7,7 +7,7 @@ permalink: "/trello/"
 trans_url: "/trello-fr/"
 ---
 
-*We use Trello to track research team internal projects.*
+*We use Trello to track talent team internal projects.*
 
 ### How to find Trello
 - Log into Trello via your CDS Google account.
@@ -37,4 +37,4 @@ Trello serves three purposes:
 - It saves Andrea and others from asking what you're doing, when.
 - We use it to check against our progress on [our key results](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#)
 
-- Last updated by Andrea on July 24, 2019
+- Last updated by Andrea on August 28, 2019

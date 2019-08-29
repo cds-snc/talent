@@ -8,9 +8,7 @@ trans_url: "/vision-et-objectifs/"
 ---
 
 ### Team vision
-
-To change government to serve people better, all major departments will:
-* 
+Talent makes HR stuff easy and intuitive for the CDS team. Our team is focused on providing an amazing experience to past, present and future CDS team members. This allows the CDS team to focus on the work of working with departments to change government to service people better.
 
 This vision guides the objectives we set and key decisions we make.
 

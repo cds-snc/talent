@@ -13,8 +13,6 @@ trans_url: "/vision-objectives/"
 
 Talent makes HR stuff easy and intuitive for the CDS team. Our team is focused on providing an amazing experience to past, present and future CDS team members. This allows the CDS team to focus on the work of working with departments to change government to service people better.
 
-This vision guides the objectives we set and key decisions we make.
-
 Cette vision oriente les objectifs que nous établissons et les décisions clés que nous prenons.
 
 ### Objectifs
@@ -39,6 +37,6 @@ We note progress on key results weekly and score them monthly. Watch our progres
   * Nous désignons un « responsable » pour chacun de nos objectifs.
 2. Chaque responsable d’objectif rédige ensuite un ensemble de résultats clés pour cet objectif. Les responsables collaborent avec Colin et l’équipe pour obtenir de la rétroaction et des objectifs.
 3. Ensuite, l’équipe au complet rencontre Aaron (dirigeant principal) et Anatole. Nous examinons les notes du dernier trimestre et la rétroaction du trimestre actuel.
-4. Andrea prépare ensuite une feuille de calcul, [comme celle-ci](https://docs.google.com/spreadsheets/d/1PHSA14FN6d0l-RfceFHuUY7JDmPaAID17Mtz011gJUU/edit#gid=0), afin que nous puissions suivre le progrès par rapport aux ORC.
+4. Andrea prépare ensuite une feuille de calcul, [comme celle-ci](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476), afin que nous puissions suivre le progrès par rapport aux ORC.
 
 _- La dernière mise à jour a été effectuée par Andrea le 29 août 2019._

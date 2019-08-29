@@ -2,7 +2,7 @@
 layout: page
 title:  "Réunions et rituels d’équipe"
 lang: fr
-category: "a-propos-de-nous"
+category: "À propos de nous"
 permalink: "/reunions-d-equipe/"
 trans_url: "/team-meetings/"
 ---

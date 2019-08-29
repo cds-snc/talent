@@ -2,7 +2,7 @@
 layout: page
 title:  "Chef des partenariats"
 lang: fr
-category: "Job Posting Samples"
+category: "Échantillons d'offres d'emploi"
 permalink: "/Head-of-Partnerships-FR/"
 trans_url: "/Head-of-Partnerships/"
 ---

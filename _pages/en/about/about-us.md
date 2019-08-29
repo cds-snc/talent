@@ -12,15 +12,15 @@ The Talent team strives to identify, attract and hire top talent that enables CD
 
 Andrea Gilbrook (head of talent)
 
-Alexa Davidson (people operations coordinator) 
+Alexa Davidson  
 
-Brock Higgins (recruiter & talent partner)
+Brock Higgins 
 
-Jessica Loadenthal (people operations - project lead)
+Jessica Loadenthal 
 
-Stephanie Gauthier (people operations coordinator)
+Stephanie Gauthier 
 
-Sana Qureshi (people operations - people & culture lead)
+Sana Qureshi
 
 
 ### What we do

@@ -2,7 +2,7 @@
 layout: page
 title:  "Vision and objectives"
 lang: en
-category: "About us"
+category: "About"
 permalink: "/vision-objectives/"
 trans_url: "/vision-et-objectifs/"
 ---

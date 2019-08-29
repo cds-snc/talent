@@ -42,9 +42,9 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
  * Progress on your OKRs
  * Whatever else you'd like to discuss
 
-* **Team coffee chat weekly** Optional. We have a standing time on Mondays from 9-9:30AM EST as a team to chat without a set agenda.
+5. **Team coffee chat weekly** Optional. We have a standing time on Mondays from 9-9:30AM EST as a team to chat without a set agenda.
 
-* **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}/vision-objectives) page for more details.
+6. **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}/vision-objectives) page for more details.
 
 ### Communication channels
 

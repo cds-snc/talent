@@ -17,7 +17,8 @@ You can read more about our process [here](https://digital.canada.ca/2019/07/29/
 
 ### Onboarding Templates
 
-[Onboarding Guide for New Employees](coming soon)
+[Onboarding Guide for New Employees] - coming soon
+
 [Onboarding Checklist](https://docs.google.com/document/d/1G6Ge7VrnlSCIFCqupCMDtCLcqhGgWM3yMqXFB7X0hWo/edit?usp=sharing)
 
 

@@ -13,7 +13,7 @@ En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employ�
 
 L’année dernière, nous avons accueilli 36 nouveaux employés, ce qui a presque doublé le personnel du SNC. Bien que nous ayons toujours été emballés d’ajouter des gens à notre équipe, nous savions que leur intégration méritait quelques améliorations. Alors, comment les techniques et les outils que le SNC utilise pour bâtir des technologies pouvaient-ils bien nous aider à créer quelque chose d’excellent? Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 
-Vous pouvez en savoir plus sur notre processus ici [ici](https://numerique.canada.ca/2019/07/29/faire-une-bonne-premi%C3%A8re-impression-lint%C3%A9gration-cest-important/)
+Vous pouvez en savoir plus sur notre processus [ici](https://numerique.canada.ca/2019/07/29/faire-une-bonne-premi%C3%A8re-impression-lint%C3%A9gration-cest-important/)
 
 ### Modèles d'intégration
 

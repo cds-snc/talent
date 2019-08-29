@@ -12,19 +12,19 @@ trans_url: "/reunions-d-equipe/"
 _Ask Andrea for calendar invitations to these meetings if you don't already have them._
  
 1.  **Talent team retro on Wednesdays from 9:30-10:30 AM ET**
- * Attendees: All memebers of talent team at CDS
+ * Attendees: All members of talent team at CDS
  * Frequency: biweekly
  * Length: 1/2 hour
  * Purpose: Blameless retro on the previous two week session.
  
 2.  **Talent team backlog refinement on Wednesdays from 2:00-3:00 PM ET**
- * Attendees: All memebers of talent team at CDS
+ * Attendees: All members of talent team at CDS
  * Frequency: biweekly
  * Length: 1 hour
  * Purpose: Review and refine backlog and plan work for next two weeks.
  
 3.   **Talent Standups on Tuesday at 10 AM, Wednesday at 9:30 AM, Thursday at 11 AM**
- * Attendees: All memebers of talent team at CDS
+ * Attendees: All members of talent team at CDS
  * Frequency: weekly
  * Length: 30 mins
  * Purpose: 
@@ -52,4 +52,4 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
 * #people on Slack is a channel for anyone interested in people and culture. We use this channel for any discussion (related to talent) CDS might enjoy.
 * We use *email* very little for communication amongst our team. Slack is a better bet.
 
-_- Last updated by Andrea on July 25, 2019_
+_- Last updated by Andrea on August 29, 2019_

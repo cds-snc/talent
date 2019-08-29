@@ -45,7 +45,7 @@ Any digital material that's [protected information]({{site.baseurl}}/privacy), i
 - Job interviewee notes or evaluations
 
 ### What we don't put in GCDocs
-- Put non-protected files (like interview plans or project work) in [Google Drive]({{site.baseurl}}/google-drive).
+- Put non-protected files (like interview plans or project work) in [Google Drive]({{site.baseurl}}/google-drive/).
 - Store protected papers in our locked filing cabinet.
 - Classified (like "secret" or "topic secret" documents) can't go in any of our systems or filing cabinets. Refer to TBS' guidance on handling it.
 

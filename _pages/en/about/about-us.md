@@ -6,19 +6,23 @@ category: "About"
 permalink: "/about-us/"
 trans_url: "/a-propos-de-nous/"
 ---
-The Talent team is about designing work so that you want to be there  – present, engaged, and proud of what you do.
+The Talent team is about designing work so that you want to be here. We want employees to be present, engaged, and proud of what they do. We're looking to build a positive work environment where the team has plenty of opportunities for development
+and is built on a culture of culture of inclusion and coaching.
 
 ### Who we are
 
 Andrea Gilbrook (head of talent)
 
+Alexa Davidson (people operations coordinator) 
+
 Brock Higgins (recruiter & talent partner)
 
 Jessica Loadenthal (people operations - project lead)
 
-Alexa Davidson (people operations coordinator) 
-
 Stephanie Gauthier (people operations coordinator)
+
+Sana Qureshi (people operations - people & culture lead)
+
 
 ### What we do
 
@@ -33,4 +37,4 @@ The Talent team makes Human Resources (HR) stuff easy and intuitive for the CDS 
 
 
 
- *Last updated by Andrea on July 24, 2019*
+ *Last updated by Andrea on August 29, 2019*

@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Team meetings and communications"
+title:  "Réunions et rituels d’équipe"
 lang: fr
-category: "About"
+category: "a-propos-de-nous"
 permalink: "/reunions-d-equipe/"
 trans_url: "/team-meetings/"
 ---

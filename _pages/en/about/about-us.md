@@ -25,13 +25,13 @@ Sana Qureshi
 
 ### What we do
 
-The Talent team makes Human Resources (HR) stuff easy and intuitive for the CDS team. Our team is focused on providing an amazing experience to past, present and future CDS team members. We bring a data-driven and people centred approach to HR. 
+Talent's people centred and data-driven approach to supporting our employees, makes Human Resources (HR) stuff easy and intuitive. We are focused on providing an amazing experience to past, present and future CDS team members.
 
 We do this by:
 
 - Ensuring we’re building repeatable & scalable processes.
 - Running programs and learning events that enhance the employee experience.
-- Direction and support for the hiring process.
+- Providing direction and support for the hiring process.
 - Creating tools to help balance the candidate experience and our legal requirements.
 - Acting as the culture champion including leading the culture pulse survey quarterly and building action plans for improvement.
 

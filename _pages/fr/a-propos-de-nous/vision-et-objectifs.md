@@ -9,9 +9,7 @@ trans_url: "/vision-objectives/"
 
 ### Vision de l'équipe
 
-(contenu français complet à venir)
-
-Talent makes HR stuff easy and intuitive for the CDS team. Our team is focused on providing an amazing experience to past, present and future CDS team members. This allows the CDS team to focus on the work of working with departments to change government to service people better.
+La gestion des talents rend la gestion des RH facile et intuitive pour l’équipe du SNC. Notre équipe est axée sur la prestation d’une expérience extraordinaire pour les membres de l’équipe du SNC du passé, du présent et du futur. Cela permet à l’équipe du SNC de mettre l’accent sur le travail de collaboration avec les ministères pour transformer le gouvernement afin de mieux servir les gens.
 
 Cette vision oriente les objectifs que nous établissons et les décisions clés que nous prenons.
 
@@ -21,12 +19,13 @@ Chaque trimestre, nous établissons (comme toutes les équipes du SNC) les objec
 
 #### Objectifs du trimestre actuel
 
-* Hire the right people to make CDS successful.
-* Iterate the Talent Function & Set the standard for the Government of Canada.
-* Foster a strong, positive, and inclusive CDS culture based on data from the team.
-* Research Talent as a Service.
+* Embaucher les bonnes personnes pour assurer la réussite du SNC.
+* Effectuer des itérations de la fonction des talents et fixer les normes pour le gouvernement du Canada.
+* Favoriser une culture du SNC robuste, positive et inclusive axée sur les données de l’équipe.
+* Rechercher des talents en tant que service.
 
-We note progress on key results weekly and score them monthly. Watch our progress in the [quarter 4 OKR progress tracker](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
+Nous indiquons les progrès sur les résultats clés chaque semaine et nous les cotons mensuellement. Suivez nos progrès dans le [OKR suivi des progrès
+](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
 
 #### Comment nous fixons les objectifs trimestriels
 
@@ -39,4 +38,4 @@ We note progress on key results weekly and score them monthly. Watch our progres
 3. Ensuite, l’équipe au complet rencontre Aaron (dirigeant principal) et Anatole. Nous examinons les notes du dernier trimestre et la rétroaction du trimestre actuel.
 4. Andrea prépare ensuite une feuille de calcul, [comme celle-ci](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476), afin que nous puissions suivre le progrès par rapport aux ORC.
 
-_- La dernière mise à jour a été effectuée par Andrea le 29 août 2019._
+_- La dernière mise à jour a été effectuée par Andrea le 3 septembre 2019._

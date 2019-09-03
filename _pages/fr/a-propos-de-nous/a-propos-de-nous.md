@@ -7,8 +7,6 @@ permalink: "a-propos-de-nous/"
 trans_url: "/about-us/"
 ---
 
-La recherche conceptuelle permet de créer des services qui répondent aux besoins humains.
-
 ### À propos de nous
 L’équipe du talent s’efforce d’identifier, d’attirer et d’embaucher les meilleurs talents qui permettent au Service numérique canadien (SNC) de bâtir un environnement de travail positif dans lequel l’équipe possède amplement de possibilités de perfectionnement et qui repose sur une culture d’inclusion et d’encadrement.
 

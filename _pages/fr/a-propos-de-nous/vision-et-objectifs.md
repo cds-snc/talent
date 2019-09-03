@@ -24,7 +24,7 @@ Chaque trimestre, nous établissons (comme toutes les équipes du SNC) les objec
 * Favoriser une culture du SNC robuste, positive et inclusive axée sur les données de l’équipe.
 * Rechercher des talents en tant que service.
 
-Nous indiquons les progrès sur les résultats clés chaque semaine et nous les cotons mensuellement. Suivez nos progrès dans le [OKR suivi des progrès
+Nous indiquons les progrès sur les résultats clés chaque semaine et nous les cotons mensuellement. Suivez nos progrès dans le [ORC suivi des progrès
 ](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
 
 #### Comment nous fixons les objectifs trimestriels

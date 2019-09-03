@@ -9,10 +9,29 @@ trans_url: "/about-us/"
 
 La recherche conceptuelle permet de créer des services qui répondent aux besoins humains.
 
+### À propos de nous
+L’équipe du talent s’efforce d’identifier, d’attirer et d’embaucher les meilleurs talents qui permettent au Service numérique canadien (SNC) de bâtir un environnement de travail positif dans lequel l’équipe possède amplement de possibilités de perfectionnement et qui repose sur une culture d’inclusion et d’encadrement.
+
 ### Qui nous sommes
 
-### Ce que nous faisons
+Andrea Gilbrook (Responsable du talent)
 
-### Notre façon de travailler avec les autres
+Alexa Davidson
 
-### La manière par laquelle d’autres équipes peuvent aider
+Brock Higgins
+
+Jessica Loadenthal
+
+Stephanie Gauthier
+
+Sana Qureshi
+
+### Que faisons-nous?
+L’équipe du talent rend la gestion des ressources humaines (RH) facile et intuitive pour l’équipe du SNC. Notre équipe est axée sur la prestation d’une expérience extraordinaire pour les membres de l’équipe du SNC du passé, du présent et du futur. Nous apportons une approche axée sur les données et les personnes aux RH. 
+
+Nous y parvenons des façons suivantes :
+* En assurant que nous bâtissons des processus reproductibles et évolutifs;
+* En organisant des programmes et des événements d’apprentissage qui améliorent l’expérience des employés;
+* En offrant de l’orientation et du soutien pour le processus d’embauche;
+* En créant des outils pour aider à équilibrer l’expérience des candidats et nos exigences juridiques;
+* En agissant à titre de champion de la culture, y compris en dirigeant le Sondage d’évaluation de la situation trimestriel et en élaborant des plans d’action à des fins d’amélioration.

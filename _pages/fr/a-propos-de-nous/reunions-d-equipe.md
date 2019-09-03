@@ -9,49 +9,51 @@ trans_url: "/team-meetings/"
 
 ### Réunions et rituels d’équipe
 
-_Si vous n’avez pas déjà les invitations au calendrier pour ces réunions, veuillez les demander à Andrea._
+1. **Rétroactions de l’équipe du talent, le mercredi de 9 h 30 à 10 h 30 HE**
+* Participants : Tous les membres de l’équipe du talent du SNC
+* Fréquence des réunions : Toutes les deux semaines
+* Durée : 30 minutes
+* Objectif : Rétroaction sans blâme au sujet de la précédente session de deux semaines
 
-(contenu français complet à venir)
- 
-1.  **Talent team retro on Wednesdays from 9:30-10:30 AM ET**
- * Attendees: All members of talent team at CDS
- * Frequency: biweekly
- * Length: 1/2 hour
- * Purpose: Blameless retro on the previous two week session.
- 
-2.  **Talent team backlog refinement on Wednesdays from 2:00-3:00 PM ET**
- * Attendees: All members of talent team at CDS
- * Frequency: biweekly
- * Length: 1 hour
- * Purpose: Review and refine backlog and plan work for next two weeks.
- 
-3.   **Talent Standups on Tuesday at 10 AM, Wednesday at 9:30 AM, Thursday at 11 AM**
- * Attendees: All members of talent team at CDS
- * Frequency: weekly
- * Length: 30 mins
- * Purpose: 
- * What they did last week
- * What they'll do in the next week
- * Any blockers
+2. **Peaufinement des arriérés de l’équipe du talent le mercredi de 14 h à 15 h HE**
+* Participants : Tous les membres de l’équipe du talent du SNC
+* Fréquence des réunions : Toutes les deux semaines
+* Durée : 1 heure
+* Objectif : Examiner et peaufiner les arriérés et planifier les travaux pour les deux prochaines semaines.
 
-4.  **One-on-ones with Andrea weekly**
- * Attendees: You and Andrea
- * Frequency: Every week
- * Purpose: Touch base on your OKR progress and blockers facing your work
- * Length: one hour
- * Standing agenda:
- * Blockers facing your work
- * Progress on your OKRs
- * Whatever else you'd like to discuss
+3. **Réunion debout des talents le mardi à 10 h, le mercredi à 9 h 30, le jeudi à 11 h**
+*Participants : Tous les membres de l’équipe du talent du SNC
+*Fréquence des réunions : Hebdomadaire
+* Durée : 30 min
+*Objectif :
+* ce qu’ils ont fait la semaine dernière;
+* ce qu’ils feront au cours de la prochaine semaine;
+* tous les obstacles.
 
-5. **Team coffee chat weekly** Optional. We have a standing time on Mondays from 9-9:30AM EST as a team to chat without a set agenda.
+4. **Réunions individuelles hebdomadaires avec Andrea**
+* Participants : Vous et Andrea
+* Fréquence des réunions : Hebdomadaire
+* Objectif : Examiner votre progrès par rapport à vos objectifs et résultats clés (ORC) et les obstacles à vos fonctions.
+* Durée : une heure
+* Ordre du jour permanent :
+* Obstacles à vos fonctions
+* Progrès par rapport à vos ORC;
+* tout autre sujet dont vous souhaitez discuter.
 
-6. **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}/vision-objectives) page for more details.
+5. **Discussions d’équipe informelles hebdomadaires facultatives.** Nous avons un temps debout le lundi de 9 h à 9 h 30 HNE afin de discuter en tant qu’équipe sans avoir à établir un ordre du jour.
 
-### Communication channels
+6. **Séance de réflexion trimestrielle** nous nous réunissons pendant quatre ou cinq heures à la fin de chaque trimestre à des fins de planification et de réflexion au sujet du prochain trimestre. Consultez la page sur le processus d’établissement des objectifs pour plus de détails.
 
-* #talent-team on Slack is a private channel with only talent team members. We use this channel for communications relevant only to us. Even though it's hidden, an access to information request could make it public. 
-* #people on Slack is a channel for anyone interested in people and culture. We use this channel for any discussion (related to talent) CDS might enjoy.
-* We use *email* very little for communication amongst our team. Slack is a better bet.
+### Voies de communication
 
-_- Last updated by Andrea on August 29, 2019_
+* Le groupe #talent-team sur Slack est un groupe privé uniquement pour les membres de l’équipe du talent. Nous utilisons cette voie pour des communications qui sont pertinentes pour nous seulement. Même si ce groupe est actuellement invisible, une demande d’accès à l’information pourrait le rendre public.
+
+* Le groupe #people sur Slack est pour tous ceux qui ont un intérêt envers les gens et la culture. Nous utilisons ce groupe pour toutes les discussions (associées aux talents) qui pourraient intéresser le SNC.
+
+* Nous nous servons très peu du courriel pour communiquer au sein de notre équipe. Slack est mieux adapté à nos besoins.
+
+
+
+
+
+

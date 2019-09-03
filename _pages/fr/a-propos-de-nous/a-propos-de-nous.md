@@ -35,3 +35,7 @@ Nous y parvenons des façons suivantes :
 * En offrant de l’orientation et du soutien pour le processus d’embauche;
 * En créant des outils pour aider à équilibrer l’expérience des candidats et nos exigences juridiques;
 * En agissant à titre de champion de la culture, y compris en dirigeant le Sondage d’évaluation de la situation trimestriel et en élaborant des plans d’action à des fins d’amélioration.
+
+
+- La dernière mise à jour a été effectuée par Andrea le 3 septembre 2019.
+

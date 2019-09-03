@@ -53,6 +53,8 @@ trans_url: "/team-meetings/"
 * Nous nous servons très peu du courriel pour communiquer au sein de notre équipe. Slack est mieux adapté à nos besoins.
 
 
+- La dernière mise à jour a été effectuée par Andrea le 3 septembre 2019.
+
 
 
 

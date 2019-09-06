@@ -7,6 +7,6 @@ permalink: "/Stephanie/"
 trans_url: "/Stephanie-FR/"
 ---
 
-### My Name is NAME
+### My Name is Stephanie
 
 I love Talent.

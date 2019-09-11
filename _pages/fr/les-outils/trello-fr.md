@@ -29,7 +29,7 @@ Comme c’est le cas avec Google Drive, Trello ne peut pas contenir de [données
 - Ajoutez un projet dès que vous commencez à y travailler.
 - Mettez à jour la fiche projet au fur et à mesure que vous y travaillez.
 - Déplacez le projet dans la bonne colonne lorsque vous terminez une étape.
-— Nous révisons toutes les fiches Trello lors de nos réunions de rétrospective bihebdomadaire et de révision de l'arriéré.
+— Nous révisons toutes les fiches Trello lors de nos réunions de rétrospective bihebdomadaire et de révision des travaux en attente.
 
 ### Pourquoi effectuons-nous ces démarches?
 Trello remplit trois objectifs : 

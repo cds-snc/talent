@@ -7,30 +7,35 @@ permalink: "/trello-fr/"
 trans_url: "/trello/"
 ---
 
-*Nous nous servons de Trello pour suivre les projets internes.*
+*Nous nous servons de Trello pour assurer le suivi des projets internes.*
 
-### How to find Trello
-- Connectez-vous à Trello à l’aide de votre compte Google du SNC.
-- Consultez notre [tableau Trello](https://trello.com/b/k8wdSP3W/research-community-projects).
-- Si vous devez être en mesure de modifier des cartes, demandez une invitation à Andrea.
+### Comment accéder à Trello
+- Connectez-vous à Trello à l’aide de votre compte Google du SNC
+- Consultez notre [tableau Trello](https://trello.com/b/k8wdSP3W/research-community-projects)
+- Si vous voulez être en mesure de modifier des fiches, demandez une invitation à Andrea
 
 ### Ce que nous déposons dans Trello
-Trello permet de suivre les renseignements de base à propos des projets continus, qui ne sont pas propres à un produit. Voici les renseignements que nous suivons : le nom du projet (exemple : « mise à jour du générateur de formulaires de consentement »), la personne responsable du projet et des notes sur le progrès du projet.
+Trello permet de suivre les renseignements de base à propos de projets continus et non relatifs aux membres du personnel. Voici les renseignements que nous suivons : 
+— Le nom du projet (exemple : « Progression de carrière des équipes de prestation »)
+— La personne responsable et les autre membres participants
+— Notes sur l'avancement du projet
+— Liste de vérification des étapes
 
 ### Ce que nous ne déposons pas dans Trello
-Comme c’est le cas avec Google Drive, Trello ne peut contenir des [données protégées]({{site.baseurl}}/protection-des-renseignements-personnels). Stockez ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou entreposez-les dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
+Comme c’est le cas avec Google Drive, Trello ne peut pas contenir de [données protégées]({{site.baseurl}}/protection-des-renseignements-personnels). Nous stockons ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou nous les entreposons dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
 
 ### Qui utilise Trello et quand
-- __membres de l'équipe sont responsables de la mise à jour de leurs cartes de projet.
-- Dès que vous commencez à travailler sur des projets, saisissez-les.
-- Mettez à jour la carte de projet au fur et à mesure de l’avancement des travaux qui y sont associés.
-- Déplacez le projet dans la colonne « terminé » lorsque vous l’achevez.
+- **Les membres de l'équipe de gestion du talent sont responsables de la mise à jour de leurs fiches de projet**
+- Ajoutez un projet dès que vous commencez à y travailler.
+- Mettez à jour la fiche projet au fur et à mesure que vous y travaillez.
+- Déplacez le projet dans la bonne colonne lorsque vous terminez une étape.
+— Nous révisons toutes les fiches Trello lors de nos réunions de rétrospective bihebdomadaire et de révision de l'arriéré.
 
 ### Pourquoi effectuons-nous ces démarches?
 Trello remplit trois objectifs : 
-- il nous garde informés des travaux de chacun
-- il évite à Andrea et à d’autres intervenants de demander ce que vous faites 
-- quand vous le faites et il nous permet de vérifier notre progrès par rapport à [nos résultats clés](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#).
+- Il nous garde informés des travaux de chacun
+- Il évite à Andrea et à d’autres membres de l'équipe de vous demander ce que vous faites, à quel moment 
+- Il nous permet de vérifier notre progrès par rapport à [nos résultats clés](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#) (en anglais).
 
 
 _- La dernière mise à jour a été effectuée par Andrea le 25 juillet 2019._

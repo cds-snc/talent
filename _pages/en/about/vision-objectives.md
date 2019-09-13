@@ -24,7 +24,7 @@ Objectives are overarching goals. Key results are concrete manifestations of eac
 * Foster a strong, positive, and inclusive CDS culture based on data from the team.
 * Research Talent as a Service.
 
-We note progress on key results weekly and score them monthly. Watch our progress in the 🔒[quarter 4 OKR progress tracker](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
+We note progress on key results weekly and score them monthly. Watch our progress in the 🔒[OKR progress tracker](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476).
 
 #### How we set objectives quarterly
 
@@ -35,6 +35,6 @@ We note progress on key results weekly and score them monthly. Watch our progres
  * assign a "lead" to each of our objectives
 2. Each objective lead then drafts a set of key results for that objective. They work with Andrea and the team to get feedback and objectives.
 3. Then, the whole team meets with Aaron (chief executive officer) and Anatole (chief operating officer). We review last quarter's scores and this quarter's feedback.
-4. Andrea then loads up an OKR tracking spreadsheet 🔒 [like this one](https://docs.google.com/spreadsheets/d/1PHSA14FN6d0l-RfceFHuUY7JDmPaAID17Mtz011gJUU/edit#gid=0) for us to track progress.
+4. Andrea then loads up an OKR tracking spreadsheet 🔒 [like this one](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476) for us to track progress.
 
-_- Last updated by Andrea on August 29, 2019_
+_- Last updated by Andrea on Septeber 13, 2019_

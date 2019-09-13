@@ -10,7 +10,7 @@ trans_url: "/design-researcher/"
 
 # Nous embauchons un chercheur en conception
 
-_Dernière utilisation par la CDS en décembre 2018_
+_Dernière utilisation par le SNC en décembre 2018_
 
 
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.

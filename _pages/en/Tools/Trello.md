@@ -11,7 +11,7 @@ trans_url: "/trello-fr/"
 
 ### How to find Trello
 - Log into Trello via your CDS Google account.
-- View our [Trello board](https://trello.com/b/5Vl63uNc/talent).
+- View our 🔒 [Trello board](https://trello.com/b/5Vl63uNc/talent).
 - If you need to be able to edit cards, ask Andrea for an invitation.
 
 ### What we put on Trello
@@ -35,6 +35,6 @@ Like Google Drive, Trello can't hold [protected data]({{site.baseurl}}/privacy).
 Trello serves three purposes:
 - It keeps us up to date of each others work. 
 - It saves Andrea and others from asking what you're doing, when.
-- We use it to check against our progress on [our key results](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#)
+- We use it to check against our progress on 🔒  [our key results](https://docs.google.com/document/d/1Bfwmduz1ZQ6KCY0ELnqifSA8NLlTQ3JVNG2J2DTaLP0/edit#)
 
 - Last updated by Andrea on August 28, 2019

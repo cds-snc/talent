@@ -9,7 +9,7 @@ trans_url: "/Senior-Product-Manager/"
 
 
 # Nous embauchons en gestionnaire de produits expérimenté
-_Dernier utilisé par CDS en mai 2019_
+_Dernière utilisation par le SNC en mai 2019_
 
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 

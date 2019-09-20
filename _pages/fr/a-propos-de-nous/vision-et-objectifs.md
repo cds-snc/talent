@@ -15,7 +15,7 @@ Cette vision oriente les objectifs que nous établissons et les décisions clés
 
 ### Objectifs
 
-Chaque trimestre, nous établissons (comme toutes les équipes du SNC) les objectifs et les résultats clés (ou OKR). Les objectifs sont généraux et les résultats clés sont des concrétisations de chaque objectif. Consulter ce lien de [Google sur l’origine des OKR (en anglais)](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
+Chaque trimestre, nous établissons (comme toutes les équipes du SNC) les objectifs et les résultats clés (ou OKR). Les objectifs sont généraux et les résultats clés sont des concrétisations de chaque objectif. Consulter ce lien de 🔒[Google sur l’origine des OKR (en anglais)](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
 
 #### Objectifs du trimestre actuel
 
@@ -35,6 +35,6 @@ Nous indiquons les progrès liés aux résultats clés chaque semaine et nous le
   * Nous désignons un « responsable » pour chacun de nos objectifs.
 2. Chaque responsable d’objectif rédige ensuite un ensemble de résultats clés pour cet objectif. Les responsables collaborent avec Andrea et l’équipe pour obtenir une rétroaction et formuler des objectifs.
 3. Ensuite, l’équipe au complet rencontre Aaron (président-directeur général) et Anatole (directeur de l'exploitation). Nous examinons les notes du dernier trimestre et la rétroaction du trimestre actuel.
-4. Andrea prépare ensuite une feuille de calcul, [comme celle-ci (en anglais)](https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476), afin que nous puissions noter nos progrès.
+4. Andrea prépare ensuite une feuille de calcul, [comme celle-ci (en anglais)]🔒(https://docs.google.com/spreadsheets/d/15qK2h9FOPY7I3tXrbf6_OIuDjRUrxsJbiNFJuKnnPQ4/edit#gid=504851476), afin que nous puissions noter nos progrès.
 
 _- La dernière mise à jour a été effectuée par Andrea le 3 septembre 2019._

@@ -11,7 +11,8 @@ trans_url: "/secondment-fr/"
 Fast Track Staffing (3 week turnaround)
 A secondment the temporary move of an employee to another department or agency in the core public administration.
 Secondments and assignments are both temporary lateral movements of an employee to perform the functions of a position that already exists or to take on a special project. However, while secondments are to another department (interdepartmental), assignments are within a department or agency (intradepartmental). In both cases, the employee maintains his/her substantive position in the home department/agency or organization, and is paid by the home department/agency or organization.
-Note: Home Organisation is the candidate’s incumbent // Host Organisation is CDS
+Note: Home Organisation is the candidate’s incumbent // Host Organisation is CDS.
+
 
 Step One:  Gather required information
   Candidates Previous Letter of Offer	
@@ -34,6 +35,7 @@ Step Two: Complete a PeopleSoft Staffing Request
 
 Step Four: Complete TBS HR Staffing template for an Assignment/Secondment
   Send to TBSHRStaffing
+
 
 Github Resources:
 [inset Link to FOL]

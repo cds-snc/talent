@@ -15,7 +15,7 @@ Secondments and assignments are both temporary lateral movements of an employee 
 Note: Home Organisation is the candidate’s incumbent // Host Organisation is CDS
 
 ## Step One:  
-# Gather required information
+_ Gather required information _ 
 
 - [ ] Candidates Previous Letter of Offer	
 - [ ] Date of Birth
@@ -42,7 +42,8 @@ Note: Home Organisation is the candidate’s incumbent // Host Organisation is C
 
 
 ## Step Five: 
-# Approvals
+_ Approvals _ 
+
     - [ ] Approval from Host Organisation
     - [ ] Contact Home Organization, introduction and explanation 
     - [ ] Request Approval from: Home Organisation 

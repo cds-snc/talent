@@ -15,8 +15,7 @@ Secondments and assignments are both temporary lateral movements of an employee 
 Note: Home Organisation is the candidate’s incumbent // Host Organisation is CDS
 
 ## Step One:  
-_ Gather required information _ 
-
+Gather required information:
 - [ ] Candidates Previous Letter of Offer	
 - [ ] Date of Birth
 - [ ] PRI
@@ -34,20 +33,22 @@ _ Gather required information _
 - [ ] Complete a PeopleSoft Staffing Request
 - [ ] Send TBS - LSS  Workflow to HR Delegate for approval
 
+
 ## Step Three: 
 - [ ] Begin TBS HR Staffing template for an Assignment/Secondment
+
 
 ## Step Four:
 - [ ] Complete the Assignment/Secondment Form
 
 
 ## Step Five: 
-_ Approvals _ 
+Approvals:
+   - [ ] Approval from Host Organisation
+   - [ ] Contact Home Organization, introduction and explanation 
+   - [ ] Request Approval from: Home Organisation 
+   - [ ] Signature from candidate
 
-    - [ ] Approval from Host Organisation
-    - [ ] Contact Home Organization, introduction and explanation 
-    - [ ] Request Approval from: Home Organisation 
-    - [ ] Signature from candidate
 
 ## Step Six: 
 - [ ] Completing the staffing request

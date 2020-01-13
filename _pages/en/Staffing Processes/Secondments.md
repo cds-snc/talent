@@ -17,7 +17,7 @@ Note: Home Organisation is the candidate’s incumbent // Host Organisation is C
 ##Step One:  
 #Gather required information
 
-- [ ]Candidates Previous Letter of Offer	
+- []Candidates Previous Letter of Offer	
 - [ ]Date of Birth
 - [ ]PRI
 - [ ]Department where secret clearance is held

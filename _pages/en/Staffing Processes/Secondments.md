@@ -42,7 +42,7 @@ Note: Home Organisation is the candidate’s incumbent // Host Organisation is C
 
 
 ## Step Five: 
-#Approvals
+# Approvals
     - [ ] Approval from Host Organisation
     - [ ] Contact Home Organization, introduction and explanation 
     - [ ] Request Approval from: Home Organisation 

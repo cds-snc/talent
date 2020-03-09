@@ -3,8 +3,8 @@ layout: page
 title:  "SNC Bilan de santé"
 lang: fr
 category: "des modèles"
-permalink: "/health_check/"
-trans_url: "/health_check-fr/"
+permalink: "/health_check-fr/"
+trans_url: "/health_check/"
 ---
 
 Les avantages de l'engagement des employés sont bien [documentés](https://www.kevinkruse.com/employee-engagement-research-master-list-of-29-studies/) La fonction publique canadienne réalise chaque année la [Sondage auprès des fonctionnaires fédéraux (SAFF)](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/public-service-employee-survey/2019-public-service-employee-survey-pses/highlights-2019-pses.html). Cette sondage mesure l'opinion des employés du gouvernement fédéral sur leur engagement, leur leadership, leur effectif, leur lieu de travail, leur bien-être au travail et leur rémunération. L'enquête fournit de nombreuses données importantes. Toutefois, les résultats du SAFF sont publiés une fois par an, généralement trois à quatre mois après la clôture du sondage.  

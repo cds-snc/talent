@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "SNC Bilan de santé"
-lang: en
+lang: fr
 category: "Templates"
 permalink: "/health_check-fr/"
 trans_url: "/health_check/"

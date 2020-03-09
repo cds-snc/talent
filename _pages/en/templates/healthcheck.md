@@ -13,7 +13,7 @@ At CDS, similar to our delivery peers, we want regular feedback from our employe
 
 ### Templates
 
-[Invite to complete the survey](https://docs.google.com/document/d/1lM-Z7hvKcE1FEp5KCnc95REiVmfMYDcaQJ02Fiv-N1c/edit?usp=sharing)
+[Sample Invite to complete the survey](https://docs.google.com/document/d/1lM-Z7hvKcE1FEp5KCnc95REiVmfMYDcaQJ02Fiv-N1c/edit?usp=sharing)
 
-[Survey](https://docs.google.com/a/cds-snc.ca/forms/d/1g2c55_6SbVL9g1cWGk34efcvmhFVIkoi35HhXmn_fb8/edit?usp=sharing)
+[Sample Survey](https://docs.google.com/a/cds-snc.ca/forms/d/1g2c55_6SbVL9g1cWGk34efcvmhFVIkoi35HhXmn_fb8/edit?usp=sharing)
 

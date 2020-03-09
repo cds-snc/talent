@@ -2,7 +2,7 @@
 layout: page
 title:  "SNC Bilan de santé"
 lang: fr
-category: "Des modèles"
+category: "des modèles"
 permalink: "/health_check-fr/"
 trans_url: "/health_check/"
 ---

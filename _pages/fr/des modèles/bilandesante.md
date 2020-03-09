@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "CDS Health Check"
+title:  "SNC Bilan de santé"
 lang: en
 category: "Templates"
 permalink: "/health_check-fr/"

@@ -17,6 +17,6 @@ Vous pouvez en savoir plus sur notre [processus](https://numerique.canada.ca/201
 
 ### Modèles d'intégration
 
-[Guide d'intégration pour les nouveaux employés] - bientôt disponible
+[Guide d'intégration pour les nouveaux employés](https://docs.google.com/document/d/1a41lqm0kLVe37p-Og4SjGFk4HhaReHyNNhTuag9rv3g/edit) - seulement en anglais pour le moment
 
 [Liste de contrôle de l'intégration des nouveaux employés](https://docs.google.com/document/d/1_tarR1feFhRViwO1Aq48gFciXhMibwYvUMx2S3WKWsI/edit?usp=sharing)

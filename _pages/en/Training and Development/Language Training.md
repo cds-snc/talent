@@ -22,30 +22,29 @@ TBS Language Training offers French training specially organized for the CDS tea
 
 As of March 2020, CDS is running 4 blocks of French training at various levels.  The classes run from Monday to Thursday.  Each employee attends 3 hours of French training. 1.5 hrs twice a week, (Mondays & Wednesdays, Tuesdays & Thursdays).  
 
-**_Learning Options at Ottawa Headquarters:_**
-French Class at 219 Laurier Avenue: a class is formed when there are a minimum of 2 people at the same level, as assessed by La Cité collégiale.
-French Class at La Cité collégiale: if there are not enough people for a class to take place at the CDS office, employees may attend a class at La Cité collégiale.
+**Learning Options at Ottawa Headquarters:**
+* French Class at 219 Laurier Avenue: a class is formed when there are a minimum of 2 people at the same level, as assessed by La Cité collégiale.
+* French Class at La Cité collégiale: if there are not enough people for a class to take place at the CDS office, employees may attend a class at La Cité collégiale.
  
-**_Learning Options for Distributed Employees:_**
-If a distributed employee is assessed at a level at which a class is being offered at CDS, the employee can join-in virtually (Google Hangout).
-If a distributed employee is assessed at a level that is NOT being offered at the CDS office, then the employee must wait until we have a second person at the same level.
+**Learning Options for Distributed Employees:**
+* If a distributed employee is assessed at a level at which a class is being offered at CDS, the employee can join-in virtually (Google Hangout). 
+* If a distributed employee is assessed at a level that is NOT being offered at the CDS office, then the employee must wait until we have a second person at the same level.
 
-**_Alternative Options:_**
-All employees are required to attend language training via one of the mechanisms listed above, however, under special circumstances, with the approval of their manager and the COO, distributed employees can choose to spend their training budget on classes offered locally from an accredited institution.
-Some employees have also opted to get a Rosetta Stone subscription, with the approval of their manager and the COO, using their training budget.
+**Alternative Options:**
+* All employees are required to attend language training via one of the mechanisms listed above, however, under special circumstances, with the approval of their manager and the COO, distributed employees can choose to spend their training budget on classes offered locally from an accredited institution.
+* Some employees have also opted to get a Rosetta Stone subscription, with the approval of their manager and the COO, using their training budget.
 
-_Note 1:_ An employee cannot attend a class virtually at La Cité collégiale because the school does not have virtual learning capabilities/options.
+**_Note 1:_** An employee cannot attend a class virtually at La Cité collégiale because the school does not have virtual learning capabilities/options.
 
-_Note 2:_ Sana is currently working on encouraging the TBS Language Training Branch to extend their contract with La Cité collégiale to other cities so that distributed employees can attend language training without having to use their training budget. La Cité collégiale has branches across Canada. 
+**_Note 2:_** Sana is currently working on encouraging the TBS Language Training Branch to extend their contract with La Cité collégiale to other cities so that distributed employees can attend language training without having to use their training budget. La Cité collégiale has branches across Canada. 
 
 **Targeted Learning:**
-La Cité collégiale offers workshops to support employees who are looking to improve a specific language skill such as writing or speaking.
-Language training is offered on a part-time or full-time basis. Based on your need, you can discuss with your supervisor and explore your options.
+* La Cité collégiale offers workshops to support employees who are looking to improve a specific language skill such as writing or speaking.
+* Language training is offered on a part-time or full-time basis. Based on your need, you can discuss with your supervisor and explore your options.
 
-**Contacts at TBS Language Training:**
-Nathalie Malette - Advisor
-Joceleyn Samson - Senior Coordinator
-Melanie Burton - Manager
+**Contacts at TBS Language Training:**  
+   Nathalie Malette - Advisor  
+   Joceleyn Samson - Senior Coordinator  
+   Melanie Burton - Manager  
 
-CDS coordinator
-Sana Qureshi 
+CDS coordinator - Sana Qureshi

@@ -7,7 +7,6 @@ permalink: "/Language-Training/"
 trans_url: "/Language-Training-FR/"
 ---
 
-## Language Training
 
 ### General
 Language Training is organized and administered by [TBS-Language Training Program](mailto:zztbsinh@tbs-sct.gc.ca) through [La Cité collégiale](https://www.collegelacite.ca/).  Typically, employees attend general classes organized by TBS, at a TBS office with a mix of people from various branches or attend classes at La Cite school located on Albert Street, Ottawa.

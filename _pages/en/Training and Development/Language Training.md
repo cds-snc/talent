@@ -40,7 +40,7 @@ As of March 2020, CDS is running 4 blocks of French training at various levels. 
 
 **Targeted Learning:**
 * La Cité collégiale offers workshops to support employees who are looking to improve a specific language skill such as writing or speaking.
-* Language training is offered on a [part-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) or [full-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY)basis. Based on your need, you can discuss with your supervisor and explore your options.
+* Language training is offered on a [part-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) or [full-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) basis. Based on your need, you can discuss with your supervisor and explore your options.
 
 **Contacts at TBS Language Training:**  
    [Nathalie Malette](mailto:Nathalie.Malette@tbs-sct.gc.ca) - Advisor  

@@ -9,15 +9,15 @@ trans_url: "/Language-Training-FR/"
 
 
 
-### Language Training at CDS
-
-## General
-Language Training is organized and administered by TBS-Language Training Program through La Cité collégiale.  Typically, employees attend general classes organized by TBS, at a TBS office with a mix of people from various branches or attend classes at La Cite school located on Albert Street, Ottawa.
-
-## Sign-up Process
-When an employee is interested in Language Training, they are required to complete the part-time training form as well as the learning agreement. Once completed, the forms are sent to Sana or the TBS language advisor (contacts listed at the end of this doc). A representative of La Cité collégiale will contact the employee to do an assessment, in person or over the phone.  Based on the employee’s level, they will be placed in a class. Class availabilities are as follows:
-
 ## Language Training at CDS
+
+### General
+Language Training is organized and administered by [TBS-Language Training Program](mailto:zztbsinh@tbs-sct.gc.ca) through [La Cité collégiale](https://www.collegelacite.ca/).  Typically, employees attend general classes organized by TBS, at a TBS office with a mix of people from various branches or attend classes at La Cite school located on Albert Street, Ottawa.
+
+### Sign-up Process
+When an employee is interested in Language Training, they are required to complete the [part-time training form](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) as well as the [learning agreement](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY). Once completed, the forms are sent to Sana or the TBS language advisor (contacts listed at the end of this doc). A representative of La Cité collégiale will contact the employee to do an assessment, in person or over the phone.  Based on the employee’s level, they will be placed in a class. Class availabilities are as follows:
+
+### Language Training at CDS
 TBS Language Training offers French training specially organized for the CDS team.  A teacher is assigned for the CDS group.
 
 As of March 2020, CDS is running 4 blocks of French training at various levels.  The classes run from Monday to Thursday.  Each employee attends 3 hours of French training. 1.5 hrs twice a week, (Mondays & Wednesdays, Tuesdays & Thursdays).  
@@ -40,11 +40,11 @@ As of March 2020, CDS is running 4 blocks of French training at various levels. 
 
 **Targeted Learning:**
 * La Cité collégiale offers workshops to support employees who are looking to improve a specific language skill such as writing or speaking.
-* Language training is offered on a part-time or full-time basis. Based on your need, you can discuss with your supervisor and explore your options.
+* Language training is offered on a [part-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) or [full-time](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY)basis. Based on your need, you can discuss with your supervisor and explore your options.
 
 **Contacts at TBS Language Training:**  
-   Nathalie Malette - Advisor  
-   Joceleyn Samson - Senior Coordinator  
-   Melanie Burton - Manager  
+   [Nathalie Malette](mailto:Nathalie.Malette@tbs-sct.gc.ca) - Advisor  
+   [Joceleyn Samson](mailto:Jocelyne.Samson@tbs-sct.gc.ca) - Senior Coordinator  
+   [Melanie Burton](mailto:Melanie.Burton@tbs-sct.gc.ca) - Manager  
 
 CDS coordinator - Sana Qureshi

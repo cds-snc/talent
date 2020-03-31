@@ -1,11 +1,9 @@
 ---
 layout: page
-title:  "Language Training"
+title:  "Formation des langues officelle"
 lang: fr
-category: "Training and Development"
-permalink: "/Language-Training/"
-trans_url: "/Language-Training-FR/"
+category: "Formation et Développment"
+permalink: "/Language-Training-fr/"
+trans_url: "/Language-Training/"##French document in progress
 ---
-
-## French document in progress
 

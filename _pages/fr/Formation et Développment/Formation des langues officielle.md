@@ -9,10 +9,10 @@ trans_url: "/Language-Training/"
 ## Formation linguistique à Service numérique canadien (SNC)
 
 ### Renseignements généraux
-La formation linguistique est organisée et administrée dans le cadre du Programme de formation linguistique du SCT par l’entremise de La Cité collégiale. Habituellement, les employés suivent des cours généraux organisés par SCT, dans un bureau du SCT, en compagnie de personnes de diverses directions ou qui fréquentent l’école La Cite située sur la rue Albert, à Ottawa.
+La formation linguistique est organisée et administrée dans le cadre du [Programme de formation linguistique](mailto:zztbsinh@tbs-sct.gc.ca) du SCT par l’entremise de [La Cité collégiale](https://www.collegelacite.ca/). Habituellement, les employés suivent des cours généraux organisés par SCT, dans un bureau du SCT, en compagnie de personnes de diverses directions ou qui fréquentent l’école La Cite située sur la rue Albert, à Ottawa.
 
 ### Processus d’inscription
-Lorsqu’un employé souhaite suivre une formation linguistique, il doit remplir le formulaire de formation à temps partiel ainsi que l’entente d’apprentissage. Une fois remplis, les formulaires sont envoyés à Sana ou à la conseillère linguistique du SCT (personnes-ressources indiquées à la fin de ce document). Un représentant de La Cité collégiale communiquera avec l’employé pour procéder à une évaluation, en personne ou par téléphone. Selon le niveau de l’employé, ce dernier se verra assigné à une classe. Les disponibilités quant aux classes sont les suivantes :
+Lorsqu’un employé souhaite suivre une formation linguistique, il doit remplir le [formulaire de formation à temps partiel](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) ainsi que [l’entente d’apprentissage](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY). Une fois remplis, les formulaires sont envoyés à Sana ou à la conseillère linguistique du SCT (personnes-ressources indiquées à la fin de ce document). Un représentant de La Cité collégiale communiquera avec l’employé pour procéder à une évaluation, en personne ou par téléphone. Selon le niveau de l’employé, ce dernier se verra assigné à une classe. Les disponibilités quant aux classes sont les suivantes :
 
 ### Formation linguistique à Service numérique canadien (SNC)
 La formation linguistique du SCT permet d’avoir accès à une formation en français spécialement organisée pour l’équipe de SNC. Un enseignant est affecté au groupe de SNC.
@@ -37,13 +37,14 @@ Au mois de mars 2020, le SNC propose quatre modules de formation en français à
 
 **Apprentissage ciblé :**
 * La Cité collégiale offre des ateliers pour soutenir les employés qui cherchent à améliorer une compétence linguistique particulière, comme la rédaction ou l’expression orale.
-* La formation linguistique est offerte à temps partiel ou à temps plein. Selon vos besoins, vous pouvez discuter avec votre superviseur et explorer vos options.
+* La formation linguistique est offerte à [temps partiel](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY) ou à [temps plein](https://drive.google.com/drive/folders/11VHuli4KKciGr0BWizkiN1pNQiAfqHYY). Selon vos besoins, vous pouvez discuter avec votre superviseur et explorer vos options.
 
-**Personnes-ressources à la formation linguistique du SCT :** 
-   [Nathalie Malette](mailto:Nathalie.Malette@tbs-sct.gc.ca) - conseillère
-   [Joceleyn Samson](mailto:Jocelyne.Samson@tbs-sct.gc.ca) -  coordonnatrice principale
-   [Melanie Burton](mailto:Melanie.Burton@tbs-sct.gc.ca) -  gestionnaire
-
+**Personnes-ressources à la formation linguistique du SCT:**  
+   [Nathalie Malette](mailto:Nathalie.Malette@tbs-sct.gc.ca) - conseillère  
+   [Joceleyn Samson](mailto:Jocelyne.Samson@tbs-sct.gc.ca) -  coordonnatrice principale  
+   [Melanie Burton](mailto:Melanie.Burton@tbs-sct.gc.ca) -  gestionnaire   
+ 
+  
 
 Coordinatrice de SNC
    [Sana Qureshi](sana.qureshi@cds-snc.ca) 

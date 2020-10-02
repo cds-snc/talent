@@ -18,8 +18,6 @@ Brock Higgins
 
 Jessica Loadenthal 
 
-Stephanie Gauthier 
-
 Sana Qureshi
 
 
@@ -36,4 +34,4 @@ We do this by:
 - Acting as the culture champion including leading the culture pulse survey quarterly and building action plans for improvement.
 
 
- *Last updated by Andrea on August 29, 2019*
+ *Last updated by Andrea on October 2, 2020*

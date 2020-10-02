@@ -23,13 +23,13 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
  * Length: 1 hour
  * Purpose: Review and refine backlog and plan work for next two weeks.
  
-3.   **Talent Standups on Tuesday at 10 AM, Wednesday at 9:30 AM, Thursday at 11 AM**
+3.   **Talent Standups Daily**
  * Attendees: All members of talent team at CDS
- * Frequency: weekly
+ * Frequency: Daily
  * Length: 30 mins
  * Purpose: 
- * What they did last week
- * What they'll do in the next week
+ * What they did yesterday
+ * What they'll do in the today
  * Any blockers
 
 4.  **One-on-ones with Andrea weekly**

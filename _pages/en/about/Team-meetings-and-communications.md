@@ -52,4 +52,4 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
 * #people on Slack is a channel for anyone interested in people and culture. We use this channel for any discussion (related to talent) CDS might enjoy.
 * We use *email* very little for communication amongst our team. Slack is a better bet.
 
-_- Last updated by Andrea on August 29, 2019_
+_- Last updated by Andrea on October 2, 2020_

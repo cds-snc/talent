@@ -29,7 +29,7 @@ _Ask Andrea for calendar invitations to these meetings if you don't already have
  * Length: 30 mins
  * Purpose: 
  * What they did yesterday
- * What they'll do in the today
+ * What they'll do today
  * Any blockers
 
 4.  **One-on-ones with Andrea weekly**

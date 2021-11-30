@@ -4,7 +4,7 @@ title:  "Inclusive Language Lexicon"
 lang: en
 category: "Training and Development"
 permalink: "/inclusive-lexicon/"
-trans_url: "/inclusive-lexicon-FR/
+trans_url: "/inclusive-lexicon-FR/"
 ---
 
 # Inclusive language in the workplace
